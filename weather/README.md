@@ -6,7 +6,10 @@ bermuda.mew@gmail.com
 
 ไปที่ command prompt(cmd) > ไปที่ directory ของ file > พิมพ์คำสั่ง node weather.js weather.xml
 
-แหล่งที่มา : https://www.npmjs.com/package/xml-js#synopsis
+
+          แหล่งที่มา :
+
+          https://www.npmjs.com/package/xml-js#synopsis
 
           https://gyandeeps.com/json-file-write/
           
