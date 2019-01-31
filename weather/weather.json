@@ -1,88 +1,88 @@
 {
-    "current": {
-        "city": {
-            "_attributes": {
-                "id": "2643741",
-                "name": "City of London"
-            },
-            "coord": {
-                "_attributes": {
-                    "lon": "-0.09",
-                    "lat": "51.51"
-                }
-            },
-            "country": {
-                "_text": "GB"
-            },
-            "sun": {
-                "_attributes": {
-                    "rise": "2015-06-30T03:46:57",
-                    "set": "2015-06-30T20:21:12"
-                }
-            }
-        },
-        "temperature": {
-            "_attributes": {
-                "value": "72.34",
-                "min": "66.2",
-                "max": "79.88",
-                "unit": "fahrenheit"
-            }
-        },
-        "humidity": {
-            "_attributes": {
-                "value": "43",
-                "unit": "%"
-            }
-        },
-        "pressure": {
-            "_attributes": {
-                "value": "1020",
-                "unit": "hPa"
-            }
-        },
-        "wind": {
-            "speed": {
-                "_attributes": {
-                    "value": "7.78",
-                    "name": "Moderate breeze"
-                }
-            },
-            "direction": {
-                "_attributes": {
-                    "value": "140",
-                    "code": "SE",
-                    "name": "SouthEast"
-                }
-            }
-        },
-        "clouds": {
-            "_attributes": {
-                "value": "0",
-                "name": "clear sky"
-            }
-        },
-        "visibility": {
-            "_attributes": {
-                "value": "10000"
-            }
-        },
-        "precipitation": {
-            "_attributes": {
-                "mode": "no"
-            }
-        },
-        "weather": {
-            "_attributes": {
-                "number": "800",
-                "value": "Sky is Clear",
-                "icon": "01d"
-            }
-        },
-        "lastupdate": {
-            "_attributes": {
-                "value": "2015-06-30T08:36:14"
-            }
+  "current": {
+    "city": {
+      "_attributes": {
+        "id": "2643741",
+        "name": "City of London"
+      },
+      "coord": {
+        "_attributes": {
+          "lon": "-0.09",
+          "lat": "51.51"
         }
+      },
+      "country": {
+        "_text": "GB"
+      },
+      "sun": {
+        "_attributes": {
+          "rise": "2015-06-30T03:46:57",
+          "set": "2015-06-30T20:21:12"
+        }
+      }
+    },
+    "temperature": {
+      "_attributes": {
+        "value": "72.34",
+        "min": "66.2",
+        "max": "79.88",
+        "unit": "fahrenheit"
+      }
+    },
+    "humidity": {
+      "_attributes": {
+        "value": "43",
+        "unit": "%"
+      }
+    },
+    "pressure": {
+      "_attributes": {
+        "value": "1020",
+        "unit": "hPa"
+      }
+    },
+    "wind": {
+      "speed": {
+        "_attributes": {
+          "value": "7.78",
+          "name": "Moderate breeze"
+        }
+      },
+      "direction": {
+        "_attributes": {
+          "value": "140",
+          "code": "SE",
+          "name": "SouthEast"
+        }
+      }
+    },
+    "clouds": {
+      "_attributes": {
+        "value": "0",
+        "name": "clear sky"
+      }
+    },
+    "visibility": {
+      "_attributes": {
+        "value": "10000"
+      }
+    },
+    "precipitation": {
+      "_attributes": {
+        "mode": "no"
+      }
+    },
+    "weather": {
+      "_attributes": {
+        "number": "800",
+        "value": "Sky is Clear",
+        "icon": "01d"
+      }
+    },
+    "lastupdate": {
+      "_attributes": {
+        "value": "2015-06-30T08:36:14"
+      }
     }
+  }
 }
